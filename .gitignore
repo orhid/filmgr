@@ -1,0 +1,19 @@
+# phoenix
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+filmgr-*.tar
+*.lock
+/priv/static/assets/
+/priv/static/cache_manifest.json
+
+# elm
+npm-debug.log
+/assets/elm/node_modules/
+/assets/elm/elm-stuff/
+/assets/elm/package-lock.json
+/assets/js/index.js
